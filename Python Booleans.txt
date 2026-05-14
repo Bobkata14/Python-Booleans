@@ -1,0 +1,94 @@
+Python Booleans
+🟢 Task 1 – True or False
+
+👉 What will be the result:
+
+print(10 > 5)
+print(3 < 1)
+🟢 Task 2 – Boolean variable
+
+👉 Create:
+
+is_student = True
+
+and print it.
+
+🟡 Task 3 – Comparison
+
+👉 You have:
+
+x = 15
+y = 10
+
+👉 Print:
+
+whether x is greater than y
+whether x is equal to y
+🟡 Task 4 – Checking with bool()
+
+👉 Use:
+
+print(bool("Hello"))
+
+print(bool(""))
+
+👉 What is the result?
+
+🟡 Task 5 – Numbers and bool
+
+👉 What will output:
+
+print(bool(1))
+
+print(bool(0))
+🔴 Task 6 – Logical check
+
+👉 Create:
+
+age = 20
+
+👉 Print if the person is an adult:
+
+True
+
+👉 hint:
+
+age >= 18
+🔴 Task 7 – Password check
+
+👉 Create:
+
+password = "python123"
+
+👉 ​​Check if the password is:
+
+"python123"
+
+and print the result (True or False)
+
+🔴 Task 8 – Combination
+
+👉 You have:
+
+x = 5
+
+y = 10
+
+👉 Check:
+
+whether x is less than y
+
+whether y is greater than 3
+
+👉 use:
+
+and
+🔥 BONUS
+
+👉 What will output:
+
+print(bool("Python"))
+
+print(bool([]))
+
+👉 explain why

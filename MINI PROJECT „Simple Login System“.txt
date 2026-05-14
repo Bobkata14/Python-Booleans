@@ -1,0 +1,50 @@
+MINI PROJECT: „Simple Login System“
+🎯 Goal:
+
+To make a simple login system.
+
+📋 Conditions
+Create correct data:
+saved_username = "admin"
+saved_password = "python123"
+Then use input():
+username = input("Enter username: ")
+password = input("Enter password: ")
+🧠 The program should check:
+
+👉 if username and password are correct:
+
+Login successful!
+
+👉 if they are NOT:
+
+Wrong username or password!
+🔥 BONUS
+
+Add:
+
+is_logged_in = True
+
+or
+
+False
+
+according to the result.
+
+Then print it:
+
+Logged in: True
+💡 Hint
+
+You will need:
+
+if
+==
+and
+🖥️ Example:
+
+Enter username: admin
+Enter password: python123
+
+Login successful!
+Logged in: True
